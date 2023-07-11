@@ -4,11 +4,11 @@ Go package that converts XML to JSON
 
 ### Install
 
-    go get -u github.com/basgys/goxml2json
+    go get -u github.com/theo-bot/goxml2json
 
 ### Importing
 
-    import github.com/basgys/goxml2json
+    import github.com/theo-bot/goxml2json
 
 ### Usage
 
@@ -21,7 +21,7 @@ Go package that converts XML to JSON
   	"fmt"
   	"strings"
 
-  	xj "github.com/basgys/goxml2json"
+  	xj "github.com/theo-bot/goxml2json"
   )
 
   func main() {
